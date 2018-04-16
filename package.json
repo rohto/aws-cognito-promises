@@ -4,7 +4,7 @@
   "description": "AWS Cognito promise library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dbroadhurst/aws-cognito-promises"
+    "url": "https://github.com/rohto/aws-cognito-promises"
   },
   "main": "./dist/index.js",
   "scripts": {
